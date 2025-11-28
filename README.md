@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
-<h3 align="center">Computational physicist and an aspiring indie hacker</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgimy&show_icons=true&locale=en" alt="georgimy" /></p>
+<h3 align="center">Aspiring Computational Physicist</h3>
 
 - 🔭 I’m currently working on **GSim2026**
 
@@ -9,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Computational Physics Projects**
 
-- 👨‍💻 All of my projects are available at [georgi.my](georgi.my)
+- 👨‍💻 All of my projects are available at [https://www.georgi.my](https://www.georgi.my)
 
 - 📝 I regularly write articles on [https://medium.com/@georgi_yordanov](https://medium.com/@georgi_yordanov)
 
