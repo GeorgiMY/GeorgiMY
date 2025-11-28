@@ -3,11 +3,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=georgimy&show_icons=true&locale=en" alt="georgimy" /></p>
 
-- 🔭 I’m currently working on **Quantum Grid**
+- 🔭 I’m currently working on **GSim2026**
 
-- 🌱 I’m currently learning **Advanced Next.js**
+- 🌱 I’m currently learning **C++**
 
-- 👯 I’m looking to collaborate on **SaaS projects**
+- 👯 I’m looking to collaborate on **Computational Physics Projects**
 
 - 👨‍💻 All of my projects are available at [georgi.my](georgi.my)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **georgimy07@gmail.com**
 
-- ⚡ Fun fact **I absolutely suck at disigning**
+- ⚡ Fun fact **I absolutely suck at designing but love to party🤷**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
