@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Georgi</h1>
 <h3 align="center">Aspiring Computational Physicist</h3>
 
-- 🔭 I’m currently working on **GSim2026**
+- 🔭 I’m currently working on **WebTrack**
 
-- 🌱 I’m currently learning **C++ and OpenGL**
+- 🌱 I’m currently learning **C++ and advanced C#**
 
 - 👯 I’m looking to collaborate on **Computational Physics Projects**
 
