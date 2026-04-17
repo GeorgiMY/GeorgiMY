@@ -4,13 +4,13 @@
   
   <p>
     <a href="https://www.georgi.my" target="_blank">Portfolio</a> •
-    <a href="https://medium.com/@georgi_yordanov" target="_blank">Medium Articles</a> •
+    <!-- <a href="https://medium.com/@georgi_yordanov" target="_blank">Medium Articles</a> • -->
     <a href="mailto:georgimy07@gmail.com">Contact Me</a>
   </p>
 
   <p>
     <a href="https://x.com/georgi_my" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
-    <a href="https://www.youtube.com/c/georgi_my" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@georgi_my" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
   </p>
 </div>
 
@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **[WebTrack](https://www.github.com/GeorgiMY/WebTrack)**
 - 🌱 I’m currently diving deep into **C++ and Advanced C#**
 - 👯 I’m looking to collaborate on **open-source physics simulations, software architecture, or anything exciting!**
-- ⚡ Fun fact: *Add a fun fact about physics, coding, or your hobbies here!*
+- ⚡ Current mood: *Questioning reality itself to understand why my program actually compiled*
 
 ---
 
