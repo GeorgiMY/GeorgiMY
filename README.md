@@ -1,45 +1,57 @@
-<h1 align="center">Hi👋<br />I'm Georgi</h1>
-<h3 align="center">Aspiring Computational Physicist</h3>
+<div align="center">
+  <h1>Hi there, I'm Georgi! 👋</h1>
+  <h3>🚀 Aspiring Computational Physicist & Software Developer</h3>
+  
+  <p>
+    <a href="https://www.georgi.my" target="_blank">Portfolio</a> •
+    <a href="https://medium.com/@georgi_yordanov" target="_blank">Medium Articles</a> •
+    <a href="mailto:georgimy07@gmail.com">Contact Me</a>
+  </p>
 
-- 🔭 I’m currently working on **WebTrack**
+  <p>
+    <a href="https://x.com/georgi_my" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"></a>
+    <a href="https://www.youtube.com/c/georgi_my" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"></a>
+  </p>
+</div>
 
-- 🌱 I’m currently learning **C++ and advanced C#**
+---
 
-- 👯 I’m looking to collaborate on **Everything!**
+### 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [https://www.georgi.my](https://www.georgi.my)
+- 🔭 I’m currently working on **[WebTrack](https://www.github.com/GeorgiMY/WebTrack)**
+- 🌱 I’m currently diving deep into **C++ and Advanced C#**
+- 👯 I’m looking to collaborate on **open-source physics simulations, software architecture, or anything exciting!**
+- ⚡ Fun fact: *Add a fun fact about physics, coding, or your hobbies here!*
 
-- 📝 I write articles on [https://medium.com/@georgi_yordanov](https://medium.com/@georgi_yordanov)
+---
 
-- 📫 How to reach me **georgimy07@gmail.com**
+### 🛠️ Tech Stack & Tools
 
-<h3 align="center">Languages I work with:</h3>
-<p align="center">
-    <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://cdn.simpleicons.org/TypeScript" alt="TypeScript" height="90" width="120" /></a>
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp/" target="blank"><img align="center" src="https://cdn.simpleicons.org/sharp/512BD4" alt="C sharp" height="90" width="120" /></a>
-    <a href="https://isocpp.org/" target="blank"><img align="center" src="https://cdn.simpleicons.org/cplusplus" alt="C++" height="90" width="120" /></a>
-    <a href="https://www.python.org/" target="blank"><img align="center" src="https://cdn.simpleicons.org/python" alt="Python" height="90" width="120" /></a>
-</p>
+**Languages**<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-<h3 align="center">Frameworks I work with:</h3>
-<p align="center">
-    <a href="https://dotnet.microsoft.com/apps/aspnet" target="blank"><img align="center" src="https://cdn.simpleicons.org/dotnet" alt="ASP.NET" height="90" width="120" /></a>
-    <a href="https://www.nextjs.org/" target="blank"><img align="center" src="https://cdn.simpleicons.org/nextdotjs" alt="Next.js" height="90" width="120" /></a>
-    <a href="https://github.com/ocornut/imgui/" target="blank"><img align="center" src="https://img.shields.io/badge/Dear%20ImGui-white?style=flat-square&logo=cplusplus&logoColor=black" alt="ImGUI" height="90" width="120" /></a>
-    <a href="https://www.raylib.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/raylib" alt="Raylib" height="90" width="120" /></a>
-    <a href="https://www.electronjs.org/" target="blank"><img align="center" src="https://cdn.simpleicons.org/electron" alt="Electron" height="90" width="120" /></a>
-</p>
+**Frameworks & Libraries**<br/>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
+![Dear ImGui](https://img.shields.io/badge/Dear%20ImGui-0A0A0A?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3 align="center">Software I work with:</h3>
-<p align="center">
-    <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudiocode.svg" alt="VSCode" height="90" width="120"/></a>
-    <a href="https://visualstudio.microsoft.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/visualstudio.svg" alt="Visual Studio" height="90" width="120"/></a>
-    <a href="https://unity.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/unity" alt="Unity" height="90" width="120" /></a>
-    <a href="https://www.mongodb.com/" target="blank"><img align="center" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" height="90" width="120" /></a>
-</p>
+**Software & Tools**<br/>
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-    <a href="https://x.com/georgi_my" target="blank"><img align="center" src="https://cdn.simpleicons.org/X" alt="georgi_my" height="90" width="120" /></a>
-    <a href="https://www.youtube.com/c/georgi_my" target="blank"><img align="center" src="https://cdn.simpleicons.org/youtube" alt="georgi_my" height="90" width="120" /></a>
-</p>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GeorgiMY&show_icons=true&theme=radical&hide_border=true" alt="Georgi's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeorgiMY&theme=radical&hide_border=true" alt="Georgi's GitHub Streak" />
+</div>
